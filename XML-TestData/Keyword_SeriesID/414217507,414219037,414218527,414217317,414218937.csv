@@ -1,0 +1,36 @@
+﻿,MG: Primary Government Expenditures as % of Original Approved Budget,LR: Primary Government Expenditures as % of Original Approved Budget,SB: Primary Government Expenditures as % of Original Approved Budget,PH: Primary Government Expenditures as % of Original Approved Budget,MN: Primary Government Expenditures as % of Original Approved Budget
+Region,Madagascar,Liberia,Solomon Islands,Philippines,Mongolia
+Subnational,,,,,
+Frequency,"Annual, ending ""Dec"" of each year","Annual, ending ""Dec"" of each year","Annual, ending ""Dec"" of each year","Annual, ending ""Dec"" of each year","Annual, ending ""Dec"" of each year"
+Unit,%,%,%,%,%
+Source,World Bank,World Bank,World Bank,World Bank,World Bank
+Status,Active,Active,Active,Active,Active
+Series ID,414217507,414219037,414218527,414217317,414218937
+SR Code,SR126145687,SR126145657,SR126145627,SR126145507,SR126145437
+Mnemonic,,,,,
+Function Information,,,,,
+First Obs. Date,2010,2009,2009,2007,2011
+Last Obs. Date,2016,2015,2011,2016,2013
+Last Update Time,06/05/2019,06/05/2019,06/05/2019,06/05/2019,06/05/2019
+Series remarks,"Primary government expenditures as a proportion of original approved budget measures the extent to which aggregate budget expenditure outturn reflects the amount originally approved, as defined in government budget documentation and fiscal reports. The coverage is budgetary central government (BCG) and the time period covered is the last three completed fiscal years.; ; Public Expenditure and Financial Accountability (PEFA). Ministry of Finance (MoF).; ;","Primary government expenditures as a proportion of original approved budget measures the extent to which aggregate budget expenditure outturn reflects the amount originally approved, as defined in government budget documentation and fiscal reports. The coverage is budgetary central government (BCG) and the time period covered is the last three completed fiscal years.; ; Public Expenditure and Financial Accountability (PEFA). Ministry of Finance (MoF).; ;","Primary government expenditures as a proportion of original approved budget measures the extent to which aggregate budget expenditure outturn reflects the amount originally approved, as defined in government budget documentation and fiscal reports. The coverage is budgetary central government (BCG) and the time period covered is the last three completed fiscal years.; ; Public Expenditure and Financial Accountability (PEFA). Ministry of Finance (MoF).; ;","Primary government expenditures as a proportion of original approved budget measures the extent to which aggregate budget expenditure outturn reflects the amount originally approved, as defined in government budget documentation and fiscal reports. The coverage is budgetary central government (BCG) and the time period covered is the last three completed fiscal years.; ; Public Expenditure and Financial Accountability (PEFA). Ministry of Finance (MoF).; ;","Primary government expenditures as a proportion of original approved budget measures the extent to which aggregate budget expenditure outturn reflects the amount originally approved, as defined in government budget documentation and fiscal reports. The coverage is budgetary central government (BCG) and the time period covered is the last three completed fiscal years.; ; Public Expenditure and Financial Accountability (PEFA). Ministry of Finance (MoF).; ;"
+Suggestions,,,,,
+Mean,92.27677584499999,89.87567299,100.11918107333334,94.922465348,97.14372641333334
+Variance,213.754233516662,126.48485492978895,61.18381225567981,47.11844157207795,751.7521427563956
+Standard Deviation,14.620336299711509,11.24654857855462,7.822008198389964,6.864287404536464,27.4180988173213
+Skewness,1.3454158861373027,1.0416330556592217,-1.622698343277486,-0.4101572622455112,1.7287845486274218
+Kurtosis,1.7310391201894202,-0.15608032445464293,,-1.3837504239327965,
+Coefficient Variation,0.15844004264160375,0.1251345130935038,0.07812696942317829,0.07231467681934889,0.2822426092721729
+Min,79.22352566,80.24316109,91.15106621,84.92691052,80.75587294
+Max,118.49476417,108.389164,105.53248503,103.58777506,128.79678435
+Median,88.90992281000001,85.795066485,103.67399198,96.29349201,81.87852195
+No. of Obs,6,6,3,10,3
+2007,,,,102.04271758,
+2008,,,,103.58777506,
+2009,,80.98976109,91.15106621,100.4765371,
+2010,79.22352566,80.24316109,103.67399198,98.79195328,
+2011,81.35239906,108.389164,105.53248503,94.69276596,128.79678435
+2012,96.77012056,,,97.89421806,81.87852195
+2013,,82.79993933,,93.72657029,80.75587294
+2014,93.8494249,88.79019364,,87.48869757,
+2015,83.97042072,98.04181879,,85.59650806,
+2016,118.49476417,,,84.92691052,
